@@ -30,8 +30,6 @@ Tuning was done using:
 The best combination found by `GridSearchCV` was:
 {'max_depth': 30, 'n_estimators': 1000}
 
-#------------------------------------------------------------------------------------
-
 ## Results
 
 | Model                | Accuracy (Test Set) |
